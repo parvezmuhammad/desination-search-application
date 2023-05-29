@@ -1,6 +1,5 @@
 // Write your code here
 import './index.css'
-// Write your code here
 
 const DestinationItem = props => {
   const {destinationDetails} = props
